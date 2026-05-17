@@ -58,4 +58,9 @@ header button {
 .accordian .show-content{
     display: block;
 }
+
+.abc{
+  /* display: none; */
+  background-color: red;
+}
 </style>
